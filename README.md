@@ -11,12 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
 
 <!--START_SECTION:waka-->
-
-          - uses: anmol098/waka-readme-stats@master
-  with:
-      WAKATIME_API_KEY: ${{waka_34e931a9-36f2-48dd-91f1-b0a6cf28ca5f}}
-      GH_TOKEN: ${{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}}
-      SHOW_LANGUAGE: "True"
+  
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=dark)
