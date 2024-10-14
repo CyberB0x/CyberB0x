@@ -19,7 +19,7 @@ jobs:
           WAKATIME_API_KEY: ${{ waka_34e931a9-36f2-48dd-91f1-b0a6cf28ca5f }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          REPOSITORY: CyberB0x/CyberB0x # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
