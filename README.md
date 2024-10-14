@@ -9,7 +9,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=dark)
 
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)   
 
