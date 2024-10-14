@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Full Stack developer, IT news writer from Russia 🇷🇺</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=CyberB0x&theme=merko)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>My Skills</h2>
