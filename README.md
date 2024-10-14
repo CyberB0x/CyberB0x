@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Full Stack developer, IT news writer from Russia 🇷🇺</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h2>My Skills</h2>
 <h4>Languages</h4>
 </br>
@@ -61,6 +63,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+
 
 
 
