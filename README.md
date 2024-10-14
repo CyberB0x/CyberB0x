@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyberB0x&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyberb0x&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=merko)
 
