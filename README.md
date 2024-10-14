@@ -10,11 +10,11 @@
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberB0x&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
 
 <h2>My Skills</h2>
 <h4>Languages</h4>
