@@ -11,22 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
 
 <!--START_SECTION:waka-->
-name: Waka Readme
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_a9417105-dcc3-4b64-8469-931c098f5382 }}
-          GH_TOKEN: ${{ secrets.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 }}
           
 <!--END_SECTION:waka-->
 
