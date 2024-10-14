@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Full Stack developer, IT news writer from Russia 🇷🇺</h3>
 
+![](https://komarev.com/ghpvc/?username=CyberB0x)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
