@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Full Stack developer, IT news writer from Russia 🇷🇺</h3>
 
+<h2>My Skills</h2>
 <h4>Languages</h4>
 </br>
 
