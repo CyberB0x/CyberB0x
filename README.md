@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Arslonbek
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python Full Stack developer, IT news writer from Russia 🇷🇺</h3>
+
+
 
 <!--
 **CyberB0x/CyberB0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
