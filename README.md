@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://www.codewars.com/users/CyberB0x/badges/large
+[![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=merko)
 
