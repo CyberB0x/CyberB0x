@@ -9,6 +9,7 @@
 
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)
 
+<figure><embed src="https://wakatime.com/share/@CyberB0x/6440009f-0231-43fd-ab87-9813118d528d.svg"></embed></figure>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
