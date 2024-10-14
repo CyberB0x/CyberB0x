@@ -7,6 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
 
 <h2>My Skills</h2>
