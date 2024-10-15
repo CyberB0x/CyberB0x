@@ -11,6 +11,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
 
  <!--START_SECTION:waka-->
+
+```txt
+Python   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=dark)
