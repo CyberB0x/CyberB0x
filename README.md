@@ -4,12 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=CyberB0x)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
-
  <!--START_SECTION:waka-->
 
 ```txt
@@ -17,6 +11,14 @@ Python   0 secs          ██████████████████�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberB0x&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=dark)
 
