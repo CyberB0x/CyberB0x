@@ -12,6 +12,8 @@ Python   0 secs          ██████████████████�
 
 <!--END_SECTION:waka-->
 
+[![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=github_dark)
@@ -24,7 +26,7 @@ Python   0 secs          ██████████████████�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/CyberB0x/github-profile-trophy)
 
-[![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)   
+ 
 
 
 
