@@ -4,7 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=CyberB0x)
 
- <iframe src='https://codealike.com/Profile/FactsWidget/weak-3314765516' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' width='600px' height='370px'></iframe>
+ # 👋 Welcome to my GitHub Profile!
+
+I use [Codealike](https://codealike.com/) to track my coding activity and improve productivity.  
+Check out my coding stats here:  
+[View my Codealike Widget](https://codealike.com/Profile/FactsWidget/weak-3314765516)
+
+[![Codealike Profile](https://codealike.com/api/badge/your-github-username)](https://codealike.com/#!/user/your-github-username)
 
 
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
