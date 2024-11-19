@@ -4,13 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=CyberB0x)
 
- <!--START_SECTION:waka-->
+ <iframe src='https://codealike.com/Profile/FactsWidget/weak-3314765516' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' width='600px' height='370px'></iframe>
 
-```txt
-Python   21 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
 
