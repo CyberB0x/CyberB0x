@@ -12,6 +12,10 @@ Check out my coding stats here:
 
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
 
+Check out my LeetCode profile to see my coding progress and solutions:  
+[LeetCode Profile](https://leetcode.com/u/cyberb0x/) 
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=github_dark)
