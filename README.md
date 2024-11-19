@@ -9,11 +9,10 @@ I use [Codealike](https://codealike.com/) to track my coding activity and improv
 Check out my coding stats here:  
 [View my Codealike Widget](https://codealike.com/Profile/FactsWidget/weak-3314765516)
 
-
-[![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
-
 Check out my LeetCode profile to see my coding progress and solutions:  
 [LeetCode Profile](https://leetcode.com/u/cyberb0x/) 
+
+[![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
