@@ -1,6 +1,37 @@
-<h1 align="center">Hi there, I'm Arslonbek
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Full Stack developer</h3>
+# 🐍 CyberB0x – Python Full Stack Developer 🚀
+
+Привет! Я **Arslonbek**, разработчик, который строит современные веб-приложения, автоматизирует задачи и всегда ищет новые вызовы.  
+Моя специализация – полный цикл разработки с использованием **Python** и современных технологий. ✨
+
+---
+
+## 🧩 Мои ключевые навыки:
+- 🐍 **Backend**: Python, Django, Flask, FastAPI.
+- 🌐 **Frontend**: HTML, CSS, JavaScript (React, Vue.js).
+- 🛠️ **DevOps**: Docker, CI/CD, автоматизация.
+- 📊 **Базы данных**: PostgreSQL, MySQL, MongoDB.
+- ⚡ **Дополнительно**: REST API, GraphQL, WebSocket, Unit Testing.
+
+## ⭐ Избранные репозитории:
+### 🌐 [Portfolio](https://github.com/CyberB0x/Portfolio)
+✨ **Описание**: Персональное портфолио, демонстрирующее мои навыки и проекты.  
+💡 **Особенности**:
+- Статичный сайт с адаптивным дизайном.
+- Использование современных технологий: HTML, CSS и JavaScript.
+- Простая и элегантная структура для демонстрации профессиональных достижений.
+- Легкость в развертывании и кастомизации.
+
+## 🚀 Чем я увлечен?
+- 📚 Постоянное изучение новых технологий.
+- 🧑‍💻 Создание масштабируемых веб-приложений.
+- 🎥 Делюсь опытом в области Python на YouTube.
+
+## 📫 Где меня найти:
+- 🎥 YouTube: [Мой канал](https://www.youtube.com/@CyberBox-bl2yi)
+
+- ✨ **Спасибо за визит!**  
+Если вам понравились мои проекты, не забудьте поставить ⭐ на репозитории. Давайте строить технологии вместе! 🌟
+
 
 ![](https://komarev.com/ghpvc/?username=CyberB0x)
 
@@ -15,31 +46,3 @@ Check out my LeetCode profile to see my coding progress and solutions:
 [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberB0x&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberB0x&theme=github_dark)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CyberB0x&theme=onedark)](https://github.com/CyberB0x/github-profile-trophy)
-
-
-
-<!--
-**CyberB0x/CyberB0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
