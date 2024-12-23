@@ -4,7 +4,7 @@
 Моя специализация – полный цикл разработки с использованием **Python** и современных технологий. ✨
 
 ---
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
 
 
 ## 🧩 Мои ключевые навыки:
