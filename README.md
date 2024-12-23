@@ -7,7 +7,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
 
 ### 🧑‍💻 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&langs_count=8&hide=html&theme=tokyonight&hide_title=true&card_width=500&card_height=200)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&langs_count=8&hide=html&theme=dark&hide_title=true&card_width=500&card_height=200)
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&count_private=true&show_icons=true&theme=tokyonight)
