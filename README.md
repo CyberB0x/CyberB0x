@@ -4,6 +4,8 @@
 Моя специализация – полный цикл разработки с использованием **Python** и современных технологий. ✨
 
 ---
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
 ## 🧩 Мои ключевые навыки:
 - 🐍 **Backend**: Python, Django, Flask, FastAPI.
