@@ -4,15 +4,13 @@
 Моя специализация – полный цикл разработки с использованием **Python** и современных технологий. ✨
 
 ---
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
-
-
 ## 🧩 Мои ключевые навыки:
 - 🐍 **Backend**: Python, Django, Flask, FastAPI.
 - 🌐 **Frontend**: HTML, CSS, JavaScript (React, Vue.js).
 - 🛠️ **DevOps**: Docker, CI/CD, автоматизация.
 - 📊 **Базы данных**: PostgreSQL, MySQL, MongoDB.
 - ⚡ **Дополнительно**: REST API, GraphQL, WebSocket, Unit Testing.
+- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
 
 ## ⭐ Избранные репозитории:
 ### 🌐 [Portfolio](https://github.com/CyberB0x/Portfolio)
