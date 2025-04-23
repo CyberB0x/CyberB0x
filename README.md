@@ -14,9 +14,8 @@
 - ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
 
 ## ⭐ Избранные репозитории:
-### 🌐 [Telegram Bot](https://github.com/CyberB0x/Project_Telegram_bot)
-### 🌐 [Image Uploader](https://github.com/CyberB0x/Project_Image_Uploader)
-### 🌐 [Converter IMG to JPG](https://github.com/CyberB0x/IMG_convertor)
+📌 **Избранные репозитории:** [Смотреть здесь](https://github.com/CyberB0x/awesome-projects)
+
 ✨ **Описание**: Персональное портфолио, демонстрирующее мои навыки и проекты.  
 💡 **Особенности**:
 - Статичный сайт с адаптивным дизайном.
