@@ -1,50 +1,57 @@
-# 🐍 Arslonbek – Python Full Stack Developer 🚀
+<h1 align="center">🐍 Arslonbek – Python Full Stack Developer 🚀</h1>
 
-Привет! Я **Arslonbek**, разработчик, который строит современные веб-приложения, автоматизирует задачи и всегда ищет новые вызовы.  
-Моя специализация – полный цикл разработки с использованием **Python** и современных технологий. ✨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFC1&center=true&vCenter=true&width=500&lines=Привет!+Я+Arslonbek;Python+Full+Stack+разработчик;Создаю+веб-приложения+и+ботов;Автоматизирую+процессы+и+тестирую+безопасность" alt="Typing SVG" />
+</p>
 
 ---
+
 ## 🧩 Мои ключевые навыки:
-- 🐍 **Backend**: Python, Django, Flask, FastAPI.
-- 🌐 **Frontend**: HTML, CSS, JavaScript (React, Vue.js).
-- 🛠️ **DevOps**: Docker, CI/CD, автоматизация.
-- 📊 **Базы данных**: PostgreSQL, MySQL, MongoDB.
-- ⚡ **Дополнительно**: REST API, GraphQL, WebSocket, Unit Testing.
-- 
-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact)
+
+- 🐍 **Backend**: `Python`, `Django`, `Flask`, `FastAPI`  
+- 🌐 **Frontend**: `HTML`, `CSS`, `JavaScript` *(React, Vue.js)*  
+- 🛠️ **DevOps**: `Docker`, `CI/CD`, автоматизация  
+- 📊 **Базы данных**: `PostgreSQL`, `MySQL`, `MongoDB`  
+- ⚡ **Дополнительно**: `REST API`, `GraphQL`, `WebSocket`, `Unit Testing`  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+</p>
+
+---
 
 ## ⭐ Избранные репозитории:
-📌 **Избранные репозитории:** [Смотреть здесь](https://github.com/CyberB0x/awesome-projects)
+📌 **Избранные проекты:**  
+👉 [Нажми, чтобы посмотреть](https://github.com/CyberB0x/awesome-projects)  
+*(С анимацией, описанием и ссылками — всё красиво!)*
 
-✨ **Описание**: Персональное портфолио, демонстрирующее мои навыки и проекты.  
-💡 **Особенности**:
-- Статичный сайт с адаптивным дизайном.
-- Использование современных технологий: HTML, CSS и JavaScript.
-- Простая и элегантная структура для демонстрации профессиональных достижений.
-- Легкость в развертывании и кастомизации.
+---
 
 ## 🚀 Чем я увлечен?
-- 📚 Постоянное изучение новых технологий.
-- 🧑‍💻 Создание масштабируемых веб-приложений.
-- 🎥 Делюсь опытом в области Python на YouTube.
+
+- 📚 Постоянное изучение новых технологий  
+- 🧑‍💻 Создание масштабируемых веб-приложений  
+- 🎥 Делюсь опытом в области Python на YouTube  
+
+---
 
 ## 📫 Где меня найти:
-- 🎥 YouTube: [Мой канал](https://www.youtube.com/@CyberBox-bl2yi)
 
-- ✨ **Спасибо за визит!**  
-Если вам понравились мои проекты, не забудьте поставить ⭐ на репозитории. Давайте строить технологии вместе! 🌟
+- 🎥 YouTube: [Мой канал](https://www.youtube.com/@CyberBox-bl2yi)  
+- 🧠 LeetCode: [Мой профиль](https://leetcode.com/u/cyberb0x/)  
+- 🥋 CodeWars:  
+  [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/CyberB0x)
 
+---
 
-![](https://komarev.com/ghpvc/?username=CyberB0x)
+## 📊 Статистика активности:
 
+![Profile Views](https://komarev.com/ghpvc/?username=CyberB0x&style=flat-square&color=blue)  
+📈 Использую [Codealike](https://codealike.com/) для анализа продуктивности:  
+👉 [Мои Codealike данные](https://codealike.com/Profile/FactsWidget/weak-3314765516)
 
-I use [Codealike](https://codealike.com/) to track my coding activity and improve productivity.  
-Check out my coding stats here:  
-[View my Codealike Widget](https://codealike.com/Profile/FactsWidget/weak-3314765516)
+---
 
-Check out my LeetCode profile to see my coding progress and solutions:  
-[LeetCode Profile](https://leetcode.com/u/cyberb0x/) 
-
-[![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/username)  
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
