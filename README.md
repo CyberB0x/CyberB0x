@@ -16,6 +16,7 @@
 ## ⭐ Избранные репозитории:
 ### 🌐 [Telegram Bot](https://github.com/CyberB0x/Project_Telegram_bot)
 ### 🌐 [Image Uploader](https://github.com/CyberB0x/Project_Image_Uploader)
+### 🌐 [Converter IMG to JPG](https://github.com/CyberB0x/IMG_convertor)
 ✨ **Описание**: Персональное портфолио, демонстрирующее мои навыки и проекты.  
 💡 **Особенности**:
 - Статичный сайт с адаптивным дизайном.
