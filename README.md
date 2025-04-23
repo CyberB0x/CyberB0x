@@ -1,7 +1,7 @@
 <h1 align="center">🐍 Arslonbek – Python Full Stack Developer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFC1&center=true&vCenter=true&width=500&lines=Привет!+Я+Arslonbek;Python+Full+Stack+разработчик;Создаю+веб-приложения+и+ботов;Автоматизирую+процессы+и+тестирую+безопасность" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFC1&center=true&vCenter=true&width=600&lines=Привет!+Я+Arslonbek.;Full+Stack+Python+разработчик.;Создаю+веб-приложения+и+ботов.;Автоматизирую+задачи+и+улучшаю+безопасность." alt="Typing SVG" />
 </p>
 
 ---
