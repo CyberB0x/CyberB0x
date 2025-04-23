@@ -14,8 +14,10 @@
 - 📊 **Базы данных**: `PostgreSQL`, `MySQL`, `MongoDB`  
 - ⚡ **Дополнительно**: `REST API`, `GraphQL`, `WebSocket`, `Unit Testing`  
 
+## 📊 Часто используемые языки
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=radical&langs_count=6&hide=html" alt="Top Langs">
 </p>
 
 ---
