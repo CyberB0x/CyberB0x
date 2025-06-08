@@ -17,8 +17,6 @@
 ## 📊 Общее время по языкам (WakaTime)
 
 <!--START_SECTION:waka-->
-| Язык | Время |
-|------|-------|
 <!--END_SECTION:waka-->
 
 ## 📊 Часто используемые языки
@@ -26,6 +24,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=github_dark&langs_count=6&hide=html" alt="Top Langs">
 </p>
+
+## 💻 В каких редакторах ты работаешь (IDE)
+
+<!--START_SECTION:ide-->
+<!--END_SECTION:ide-->
 
 ---
 
