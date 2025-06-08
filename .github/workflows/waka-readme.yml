@@ -2,14 +2,12 @@ name: Update WakaTime stats
 
 on:
   schedule:
-    - cron: '0 1 * * *'
-  workflow_dispatch:
+    - cron: '0 1 * * *' 
+  workflow_dispatch:      
 
 jobs:
   update-waka:
     runs-on: ubuntu-latest
-    env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
     steps:
       - name: Checkout
@@ -20,11 +18,13 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
       - name: Generate WakaTime Stats
         run: python .github/scripts/wakatime_stats.py
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit & Push changes
         run: |
