@@ -14,6 +14,11 @@
 - 📊 **Базы данных**: `PostgreSQL`, `MySQL`, `MongoDB`  
 - ⚡ **Дополнительно**: `REST API`, `GraphQL`, `WebSocket`, `Unit Testing`  
 
+## 📊 Общее время по языкам (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📊 Часто используемые языки
 
 <p align="center">
