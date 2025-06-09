@@ -66,6 +66,14 @@ HTML     0 secs          ▓░░░░░░░░░░░░░░░░░�
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=radical&border_radius=10&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberB0x&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
