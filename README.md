@@ -75,6 +75,10 @@ Text       2 mins          ▓░░░░░░░░░░░░░░░░�
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberB0x&theme=github_dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberB0x&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyberB0x&theme=github_dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
