@@ -1,20 +1,20 @@
-<h1 align="center">🐍 Arslonbek – Python Full Stack Developer 🚀</h1>
+<h1 align="center">Arslonbek — Python Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFC1&center=true&vCenter=true&width=600&lines=Привет!+Я+Arslonbek.;Full+Stack+Python+разработчик.;Создаю+веб-приложения+и+ботов.;Автоматизирую+задачи+и+улучшаю+безопасность." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Arslonbek.;Full+Stack+Python+Developer.;Building+modern+web+apps+and+bots.;Automating+tasks+and+enhancing+security." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧩 Мои ключевые навыки:
+## 🔧 Core Skills
 
-- 🐍 **Backend**: `Python`, `Django`, `Flask`, `FastAPI`  
-- 🌐 **Frontend**: `HTML`, `CSS`, `JavaScript` *(React, Vue.js)*  
-- 🛠️ **DevOps**: `Docker`, `CI/CD`, автоматизация  
-- 📊 **Базы данных**: `PostgreSQL`, `MySQL`, `MongoDB`  
-- ⚡ **Дополнительно**: `REST API`, `GraphQL`, `WebSocket`, `Unit Testing`  
+- **Backend:** Python, Django, Flask, FastAPI  
+- **Frontend:** HTML, CSS, JavaScript (React, Vue.js)  
+- **DevOps & Automation:** Docker, CI/CD, scripting  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Additional:** REST API, GraphQL, WebSocket, Unit Testing  
 
-## 📊 Общее время по языкам (WakaTime)
+## 📊 WakaTime
 
 <!--START_SECTION:waka-->
 
@@ -28,29 +28,30 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-## 📊 Часто используемые языки
+## Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=github_dark&langs_count=6&hide=html" alt="Top Langs">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=github_dark&langs_count=6&hide=html" alt="Top Languages" /> </p>
 
 ---
 
-## ⭐ Избранные репозитории:
-📌 **Избранные проекты:**  
-## 👉 [Нажми, чтобы посмотреть](https://cyberb0x.github.io/) 
+## ⭐ Featured Repositories
+<a href="https://cyberb0x.github.io/" target="_blank" style="text-decoration:none">
+  <p align="center">
+    <b>👉 <u>Click here to explore</u></b>
+  </p>
+</a>
 
 ---
 
-## 🚀 Чем я увлечен?
+## What I’m Passionate About
 
-- 📚 Постоянное изучение новых технологий  
-- 🧑‍💻 Создание масштабируемых веб-приложений  
-- 🎥 Делюсь опытом в области Python на YouTube  
+- 📚 Continuous learning of new technologies  
+- 🧑‍💻 Building scalable and maintainable web applications  
+- 🎥 Sharing Python knowledge on YouTube  
 
 ---
 
-## 📫 Где меня найти:
+## Where to Find Me:
 
 - 🎥 YouTube: [Мой канал](https://www.youtube.com/@CyberBox-bl2yi)  
 - 🧠 LeetCode: [Мой профиль](https://leetcode.com/u/cyberb0x/)  
@@ -59,10 +60,11 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📊 Статистика активности:
+## Activity Statistics:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberB0x&style=flat-square&color=blue)  
-📈 Использую [Codealike](https://codealike.com/) для анализа продуктивности:  
-👉 [Мои Codealike данные](https://codealike.com/Profile/FactsWidget/weak-3314765516)
+
+📈 I use [Codealike](https://codealike.com/) to track and analyze my productivity:  
+👉 [My Codealike Data](https://codealike.com/Profile/FactsWidget/weak-3314765516)
 
 ---
