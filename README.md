@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Arslonbek.;Full+Stack+Python+Developer.;Building+modern+web+apps+and+bots.;Automating+tasks+and+enhancing+security." alt="Typing SVG" />
 </p>
 
+<p>
+Hi, I’m Arslan, a full-stack software engineer with expertise in Python (Django, Flask, FastAPI), Java, and frontend frameworks like React, Angular, and Vue.js. I work with PostgreSQL, MySQL, and MongoDB databases, and apply DevOps practices including Docker, Kubernetes, and CI/CD.
+With experience in ethical hacking and reverse engineering, I build secure, scalable, and reliable web applications designed to perform under heavy load.
+</p>
+
 ---
 
 ## 🔧 Core Skills
