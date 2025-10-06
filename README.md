@@ -35,11 +35,8 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 ## ⭐ Featured Repositories
-<a href="https://cyberb0x.github.io/" target="_blank" style="text-decoration:none">
-  <p align="center">
-    <b>👉 <u>Click here to explore</u></b>
-  </p>
-</a>
+[![Explore Projects](https://img.shields.io/badge/Explore-Projects-blue?style=for-the-badge)](https://cyberb0x.github.io/)
+
 
 ---
 
