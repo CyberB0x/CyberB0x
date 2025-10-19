@@ -48,11 +48,11 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 <!--START_SECTION:waka-->
 
 ```txt
-Python             3 hrs 31 mins   █████████████▒░░░░░░░░░░░   53.37 %
-HTML               2 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.95 %
-Docker             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Markdown           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Text               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python             4 hrs 34 mins   ███████████████░░░░░░░░░░   59.74 %
+HTML               2 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+Docker             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Markdown           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Text               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
