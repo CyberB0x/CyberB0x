@@ -60,7 +60,7 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ## Top Languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=github_dark&langs_count=6&hide=html" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=github_dark&langs_count=100&hide=html" alt="Top Languages" /> </p>
 
 ---
 
