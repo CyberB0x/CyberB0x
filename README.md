@@ -48,9 +48,9 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 38 mins    ████████████▒░░░░░░░░░░░░   49.64 %
-Python       1 hr 37 mins    ████████████▒░░░░░░░░░░░░   49.13 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Python       2 hrs 7 mins    ██████████████░░░░░░░░░░░   55.81 %
+JavaScript   1 hr 38 mins    ██████████▓░░░░░░░░░░░░░░   43.06 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
