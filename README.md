@@ -43,22 +43,6 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 ![Unit Testing](https://img.shields.io/badge/Testing-Unit%20Tests-blue?style=for-the-badge)
 
 
-## 📊 WakaTime
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-## Top Languages
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberB0x&layout=compact&theme=github_dark&langs_count=100&hide=html" alt="Top Languages" /> </p>
-
----
 
 ## ⭐ Featured Repositories
 [![Explore Projects](https://img.shields.io/badge/Explore-Projects-blue?style=for-the-badge)](https://cyberb0x.github.io/)
