@@ -19,10 +19,6 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Additional:** REST API, GraphQL, WebSocket, Unit Testing
 
-## TryHackMe
-[![TryHackMe MICRO badge](https://tryhackme-badges.s3.amazonaws.com/MICRO.png)](https://tryhackme.com/p/MICRO)
-
-
 
 ## 🛠 Tools & Technologies
 
