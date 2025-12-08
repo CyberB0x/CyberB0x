@@ -62,12 +62,3 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
   [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/CyberB0x)
 
 ---
-
-## Activity Statistics:
-
-![Profile Views](https://komarev.com/ghpvc/?username=CyberB0x&style=flat-square&color=blue)  
-
-📈 I use [Codealike](https://codealike.com/) to track and analyze my productivity:  
-👉 [My Codealike Data](https://codealike.com/Profile/FactsWidget/weak-3314765516)
-
----
