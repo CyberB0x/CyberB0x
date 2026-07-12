@@ -12,7 +12,9 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 ---
 
 ---
+
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MICRO.png)](https://tryhackme.com/p/MICRO)
+
 ---
 
 ---
