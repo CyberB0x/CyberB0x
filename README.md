@@ -11,6 +11,7 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 
 ---
 
+<h3>TryHackMe</h3>
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MICRO.png)](https://tryhackme.com/p/MICRO)
 
 ## 🔧 Core Skills
@@ -58,8 +59,8 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 
 ## Where to Find Me:
 
-- 🎥 YouTube: [Мой канал](https://www.youtube.com/@CyberBox-bl2yi)  
-- 🧠 LeetCode: [Мой профиль](https://leetcode.com/u/cyberb0x/)  
+- 🎥 YouTube: [My channel](https://www.youtube.com/@CyberBox-bl2yi)  
+- 🧠 LeetCode: [My profile](https://leetcode.com/u/cyberb0x/)  
 - 🥋 CodeWars:  
   [![codewars](https://www.codewars.com/users/CyberB0x/badges/large)](https://www.codewars.com/users/CyberB0x)
 
