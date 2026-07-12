@@ -11,6 +11,9 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 
 ---
 
+<h1>TryHackMe:</h1>
+[(https://tryhackme.com/p/MICRO?tab=completed-rooms)]
+
 ## 🔧 Core Skills
 
 - **Backend:** Python, Django, Flask, FastAPI  
