@@ -11,8 +11,8 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 
 ---
 
-<h1>TryHackMe:</h1>
-[(https://tryhackme.com/p/MICRO?tab=completed-rooms)]
+<h3>TryHackMe:</h3>
+https://tryhackme.com/p/MICRO?
 
 ## 🔧 Core Skills
 
