@@ -11,8 +11,7 @@ With experience in ethical hacking and reverse engineering, I build secure, scal
 
 ---
 
-<h3>TryHackMe:</h3>
-https://tryhackme.com/p/MICRO?
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MICRO.png)](https://tryhackme.com/p/MICRO)
 
 ## 🔧 Core Skills
 
